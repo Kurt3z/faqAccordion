@@ -141,3 +141,10 @@ ul {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+/* 704px / 16px = 44em (Smaller Tablets)*/
+@media (max-width: 44em) {
+  .accordion {
+    margin: 5%;
+  }
+}
