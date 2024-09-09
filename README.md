@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL: ](https://github.com/Kurt3z/faqAccordion)
+- [Live Site URL: ](https://kurt3z.github.io/faqAccordion/)
 
 ## My Process
 
@@ -40,8 +40,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - JavaScript
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ## Author
 
